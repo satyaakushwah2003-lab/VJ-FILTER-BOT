@@ -243,7 +243,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : [@FILMY_DOSES] {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : 【@FILMY_DOSES】 {file_name}
 
 <b>⚙️ sɪᴢᴇ : {file_size} ➠➠➠ BOT : @FILMY_DOSESBOT</b>""" 
 
